@@ -1,0 +1,56 @@
+ Volume in drive C is Windows 10
+ Volume Serial Number is 16F2-6D28
+
+ Directory of C:\Program Files
+
+05/21/2020  06:16 PM    <DIR>          .
+05/21/2020  06:16 PM    <DIR>          ..
+02/12/2020  07:00 PM    <DIR>          Adobe
+01/23/2020  07:58 PM    <DIR>          Android
+12/08/2019  03:36 PM    <DIR>          Application Verifier
+12/19/2019  01:52 PM    <DIR>          Blender Foundation
+02/12/2020  05:15 PM    <DIR>          ByteFence
+01/03/2020  09:27 AM    <DIR>          CMake
+02/14/2020  11:25 AM    <DIR>          Common Files
+09/22/2019  05:07 PM    <DIR>          Counter-Strike Global Offensive
+02/25/2020  11:43 AM    <DIR>          erl10.6
+07/21/2019  01:11 AM    <DIR>          Git
+02/05/2020  10:33 AM    <DIR>          Inkscape
+04/13/2020  05:42 PM    <DIR>          Internet Explorer
+02/21/2020  09:57 AM    <DIR>          iSpy
+01/23/2020  07:17 PM    <DIR>          Java
+03/18/2018  07:50 PM    <DIR>          KMSpico
+05/12/2020  09:58 AM    <DIR>          Microsoft
+07/16/2016  06:29 AM    <DIR>          Microsoft Analysis Services
+07/16/2016  06:30 AM    <DIR>          Microsoft Office
+05/12/2020  10:15 AM    <DIR>          Microsoft SQL Server
+05/12/2020  09:58 AM    <DIR>          Microsoft Visual Studio 10.0
+08/11/2019  11:32 AM    <DIR>          Microsoft.NET
+03/19/2019  10:22 AM    <DIR>          ModifiableWindowsApps
+08/10/2019  04:44 PM    <DIR>          MSBuild
+05/18/2020  01:12 PM    <DIR>          nodejs
+12/06/2019  05:06 PM    <DIR>          NVIDIA Corporation
+02/25/2020  11:43 AM    <DIR>          RabbitMQ Server
+08/10/2019  04:44 PM    <DIR>          Reference Assemblies
+08/11/2019  11:56 AM    <DIR>          rempl
+05/21/2020  06:29 PM    <DIR>          Rockstar Games
+02/27/2020  01:53 PM    <DIR>          Spark AR Studio
+05/12/2020  10:55 AM    <DIR>          SQLiteStudio
+01/05/2020  11:26 AM    <DIR>          Sublime Text 3
+07/19/2019  12:19 AM    <DIR>          Synfig
+07/26/2019  11:48 PM    <DIR>          Unity
+12/08/2019  03:13 PM    <DIR>          Unity Hub
+05/30/2020  12:37 PM    <DIR>          UNP
+04/13/2020  05:42 PM    <DIR>          Windows Defender
+04/19/2020  04:20 PM    <DIR>          Windows Defender Advanced Threat Protection
+08/10/2019  06:10 PM    <DIR>          Windows Mail
+03/19/2019  11:53 AM    <DIR>          Windows Media Player
+03/19/2019  11:53 AM    <DIR>          Windows Multimedia Platform
+03/19/2019  10:32 AM    <DIR>          Windows NT
+03/19/2019  11:53 AM    <DIR>          Windows Photo Viewer
+03/19/2019  11:53 AM    <DIR>          Windows Portable Devices
+03/19/2019  10:22 AM    <DIR>          Windows Security
+03/19/2019  10:22 AM    <DIR>          WindowsPowerShell
+03/13/2018  07:52 PM    <DIR>          WinRAR
+               0 File(s)              0 bytes
+              49 Dir(s)  75,431,235,584 bytes free
